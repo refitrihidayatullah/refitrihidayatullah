@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/refi-tri-hidayatullah-98b4861b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="refi tri hidayatullah" height="30" width="40" /></a>
 <a href="https://instagram.com/refff19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="refitrihidayatullah" height="30" width="40" /></a>
-<a href="https://instagram.com/refff19" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXVdNgSgIT2YokdjMr6ATKqITIEVD8Lxg8Lw&s" alt="refitrihidayatullah" height="30" width="28" /></a>
+<a href="https://refitrihidayatullah.github.io/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXVdNgSgIT2YokdjMr6ATKqITIEVD8Lxg8Lw&s" alt="portofoliorefitrihidayatullah" height="30" width="28" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
