@@ -3,12 +3,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aidahnoora&label=Profile%20views&color=0e75b6&style=flat" alt="aidahnoora" /> </p>
 
-- 🌱 I’m currently learning **Laravel, Flutter, Vue.js**
+- 🌱 I’m currently learning **Laravel, Flutter, React.js**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/a-idah-noor-azzah-2740b2217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a'idah noor azzah" height="30" width="40" /></a>
-<a href="https://instagram.com/aidahnoora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aidahnoora" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/refi-tri-hidayatullah-98b4861b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="refi tri hidayatullah" height="30" width="40" /></a>
+<a href="https://instagram.com/refff19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="refitrihidayatullah" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
