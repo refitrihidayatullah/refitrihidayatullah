@@ -1,4 +1,4 @@
-<h1 align="center">Hewuu 👋, I'm Refi Tri Hidayatullah</h1>
+<h1 align="center">Hello 👋, I'm Refi Tri Hidayatullah</h1>
 <h3 align="center">I'm a Web Developer from Indonesia. I love learning, teaching and coding!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aidahnoora&label=Profile%20views&color=0e75b6&style=flat" alt="aidahnoora" /> </p>
